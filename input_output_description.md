@@ -37,7 +37,7 @@
             - transaction_end_date: timestamp associated with the transaction completion- 
 
 - Output: a JSON list of objects contaning, for each record in the original orderthe following fields:
-        - account_id: id of account
-        - transaction_id: id of transaction
-        - score:  model's prediction of the ach fraud score for the record.
+    - account_id: id of account
+    - transaction_id: id of transaction
+    - score:  model's prediction of the ach fraud score for the record.
   Reference file: sample.zip.out
