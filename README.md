@@ -8,4 +8,4 @@ Machine learning based solution used to monitor ACH wire transfers, determine fr
 
 SKU: APPFR-PS-LOA-AWS-001
 
-AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-civwgbmmfnhrm
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-fzrxwggmigy4g
